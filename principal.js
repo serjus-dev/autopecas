@@ -1,5 +1,5 @@
 
-var banners = ["SÓ 100,99! ", "COMPRE 1 E LEVE 2!"];
+var banners = ["SÓ 100,99!","COMPRE 1 E LEVE 2!"];
 
 var bannerAtual = 0;
 
