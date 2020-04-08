@@ -1,5 +1,5 @@
 
-var banners = ["Super promoção de peças!", "Peças originais a preço justo!"];
+var banners = ["SÓ 10,99!", "COMPRE 1 E LEVE 2!"];
 
 var bannerAtual = 0;
 
@@ -9,3 +9,4 @@ function trocaBanner(){
 }
 
 setInterval(trocaBanner,1000);
+
